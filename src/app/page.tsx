@@ -59,7 +59,7 @@ export default function LandingPage() {
           text: "Our Services",          href: "/services"},
       ]}
       buttonAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/back-black-car-with-red-rear-light_23-2147963062.jpg"
+      imageSrc="https://img.b2bpic.net/premium-photo/car-audio-car-speakers-subwoofer-accessories-tuning-solated-white-background-banner_175390-865.jpg?id=26016013"
       imageAlt="Luxurious sports car in a dark garage"
       showDimOverlay={true}
       ariaLabel="Hero section with Uttam Motors logo and call to action"
@@ -91,15 +91,15 @@ export default function LandingPage() {
         {
           id: "s1",          title: "Advanced Diagnostics",          author: "Expert Technicians",          description: "Utilizing state-of-the-art equipment to accurately pinpoint any issues, ensuring precise and efficient repairs.",          tags: [
             "Car",            "Bike"],
-          imageSrc: "http://img.b2bpic.net/free-photo/man-working-tablet-office_23-2149307827.jpg",          imageAlt: "Car diagnostic screen in a modern workshop"},
+          imageSrc: "https://img.b2bpic.net/premium-photo/leather-seat-vintage-motorcycle_38052-2666.jpg?id=21040445",          imageAlt: "Car diagnostic screen in a modern workshop"},
         {
           id: "s2",          title: "Custom Installations",          author: "Performance Specialists",          description: "Expert fitting of performance parts, audio systems, and aesthetic enhancements to personalize your ride.",          tags: [
-            "Custom",            "Upgrade"],
-          imageSrc: "http://img.b2bpic.net/free-photo/busy-workshop-with-broken-mountain-bicycle-table_613910-20760.jpg",          imageAlt: "Custom car interior being installed"},
+            "",            ""],
+          imageSrc: "https://img.b2bpic.net/premium-photo/high-angle-view-toy-car-with-hand-tools-table_175932-5217.jpg?id=113584134",          imageAlt: "Custom car interior being installed"},
         {
           id: "s3",          title: "Luxury Detailing",          author: "Detailing Masters",          description: "Comprehensive cleaning, polishing, and protection services that restore your vehicle's showroom shine.",          tags: [
             "Clean",            "Shine"],
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-car-polishing-service_23-2149212252.jpg",          imageAlt: "Professional car detailing with polishing"},
+          imageSrc: "https://img.b2bpic.net/premium-vector/extensive-collection-automotive-vehicles-repair-tools-car-parts-as-flat-silhouettes_870512-17171.jpg?id=425033087",          imageAlt: "Professional car detailing with polishing"},
       ]}
       title="Our Premium Services"
       description="From routine maintenance to performance upgrades, our certified experts ensure your vehicle receives the best care, keeping you on the road with confidence."
@@ -119,9 +119,9 @@ export default function LandingPage() {
         {
           id: "m1",          value: "20+",          description: "Years of Experience"},
         {
-          id: "m2",          value: "5000+",          description: "Satisfied Customers"},
+          id: "m2",          value: "100+",          description: "Satisfied Customers"},
         {
-          id: "m3",          value: "1000+",          description: "Premium Products"},
+          id: "m3",          value: "100+",          description: "Premium Products"},
       ]}
       metricsAnimation="slide-up"
     />
@@ -135,11 +135,11 @@ export default function LandingPage() {
       author="Happy Customers"
       avatars={[
         {
-          src: "http://img.b2bpic.net/free-photo/close-up-smiley-man-inside-car_23-2149201412.jpg",          alt: "Sarah Johnson"},
+          src: "https://img.b2bpic.net/free-photo/indian-man-city-male-traditional-turban-hinduist-summer-city_1157-41015.jpg?id=10706613",          alt: "Sarah Johnson"},
         {
-          src: "http://img.b2bpic.net/free-photo/mechanic-holding-bicycle_1170-2609.jpg",          alt: "Michael Chen"},
+          src: "https://img.b2bpic.net/free-photo/indian-satisfied-woman-clapping-hands-feeling-proud-milestone_482257-122316.jpg?id=417583905",          alt: "Michael Chen"},
         {
-          src: "http://img.b2bpic.net/free-photo/portait-handsome-european-elderly-man-smiles-positively-enjoys-retirement-wears-shirt-spectacles-has-perfect-white-teeth-isolated-beige-studio-wall_273609-44196.jpg",          alt: "Emily Rodriguez"},
+          src: "https://img.b2bpic.net/free-photo/pretty-indian-girl-black-saree-dress-posed-restaurant-with-mobile-phone-hand_627829-1979.jpg?id=25957517",          alt: "Emily Rodriguez"},
         {
           src: "http://img.b2bpic.net/free-photo/close-up-happy-woman-outdoors_23-2149042138.jpg",          alt: "David Kim"},
         {
@@ -201,7 +201,7 @@ export default function LandingPage() {
           ],
         },
       ]}
-      copyrightText="© 2024 Uttam Motors. All rights reserved."
+      copyrightText="© 2026 Uttam Motors. All rights reserved."
     />
   </div>
       </ReactLenis>
