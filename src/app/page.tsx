@@ -75,7 +75,7 @@ export default function LandingPage() {
         },
       ]}
       buttonAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/back-black-car-with-red-rear-light_23-2147963062.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/back-black-car-with-red-rear-light_23-2147963062.jpg?_wi=1"
       imageAlt="Luxurious sports car in a dark garage"
       showDimOverlay={true}
       ariaLabel="Hero section with Uttam Motors logo and call to action"
