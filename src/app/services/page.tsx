@@ -173,7 +173,7 @@ export default function LandingPage() {
             text: "Choose Plan",
             href: "/contact",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/back-black-car-with-red-rear-light_23-2147963062.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/back-black-car-with-red-rear-light_23-2147963062.jpg?_wi=2",
           imageAlt: "mature woman elegant smiling portrait",
         },
       ]}
