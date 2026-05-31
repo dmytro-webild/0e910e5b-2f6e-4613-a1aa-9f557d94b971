@@ -72,13 +72,13 @@ export default function LandingPage() {
       heading={[
         {
           type: "text",          content: "Driving Excellence for Over 20 Years"},
+        {
+          type: "image",          src: "http://img.b2bpic.net/free-photo/brutal-tattooed-bearded-mechanic-specialist-repairs-car-engine-which-is-raised-hydraulic-lift-garage-service-station_613910-19599.jpg",          alt: "Vintage car in a classic workshop setting"},
       ]}
       buttons={[
         {
           text: "Learn More About Us",          href: "/about"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/brutal-tattooed-bearded-mechanic-specialist-repairs-car-engine-which-is-raised-hydraulic-lift-garage-service-station_613910-19599.jpg"
-      imageAlt="Vintage car in a classic workshop setting"
     />
   </div>
 
