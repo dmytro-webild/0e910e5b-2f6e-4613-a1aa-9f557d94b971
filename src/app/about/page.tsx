@@ -50,13 +50,13 @@ export default function LandingPage() {
       heading={[
         {
           type: "text",          content: "Our Journey: Two Decades of Automotive Passion"},
+        {
+          type: "image",          src: "http://img.b2bpic.net/free-photo/female-mechanic-standing-repair-garage_1170-1532.jpg",          alt: "Team of mechanics in modern workshop"},
       ]}
       buttons={[
         {
           text: "Contact Our Team",          href: "/contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/female-mechanic-standing-repair-garage_1170-1532.jpg"
-      imageAlt="Team of mechanics in modern workshop"
     />
   </div>
 
